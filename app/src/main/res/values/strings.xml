@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="app_id">efb7de6a666fd428f916effb6c64f231</string>
+    <string name="choose_city">Введите название города</string>
+    <string name="pressure">Давление</string>
+    <string name="visibility">Видимость</string>
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="humidity">Влажность</string>
+    <string name="cloudiness">Облачность</string>
+    <string name="wind_direction">Направление ветра</string>
+</resources>
